@@ -26,10 +26,6 @@
 
 </div >
   
-  <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fabiobrasileiroo&bg_color=000000&color=2dbfd2&line=4118a0&point=2dbfd2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
-  <div align="center">
-    <img src="./perfilGif.gif" />
-  </div>
 
 <div align="center"> 
 
@@ -56,3 +52,6 @@
 <div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4500e1&height=120&section=footer"/>
+
+![Snake animation](https://github.com/Elnata1nt/Elnata1nt/blob/output/github-contribution-grid-snake.svg)
+
