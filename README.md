@@ -24,8 +24,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Elnata1nt&theme=outrun&hide_border=true&locale=pt_BR&card_width=500&background=0d1117" alt="My contributions" />
 </div>
 
-</div >
-  
+  <div align="center">
+    <img src="./perfilGif.gif" />
+  </div>
 
 <div align="center"> 
 
@@ -33,14 +34,11 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTMl-0D1117.svg?style=for-the-badge&logo=html5&logoColor=orange)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-<!--![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)-->
+![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  
+
 ### Studying in this moment:
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-<br>
-![Mysql](https://img.shields.io/badge/-Mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Aws](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=AWS&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117)&nbsp;
 </div>
   
 <div align="center">
