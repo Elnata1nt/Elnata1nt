@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32CD32&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Elnata+Correa;I'm+from+Brazil,+Amazonas,+Manaus;I+Studying+computer+engineering+;Be+Welcome!+:%29)](https://git.io/typing-svg)
-<div>
+<div align="center">
   <a href="https://github.com/Elnata1nt">
   <div>
     <a href="https://youtube.com/@elnatan_nt?si=o7rgvCetI_Jl_NxX" target="_blank">
@@ -13,8 +13,8 @@
     <a href="http://linkedin.com/in/elnatan1nt" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 0px;" />
   </a>
+</div>
     
-  </div>
   <div align="center">
     <img align="center" height="190em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Elnata1nt&show_icons=true&include_all_commits=true&count_private=true&theme=outrun&hide_border=true&bg_color=0d1117" /> 
     <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elnata1nt&layout=compact&langs_count=10&theme=outrun&bg_color=0d1117&hide_border=true&hide=css=true"/>
