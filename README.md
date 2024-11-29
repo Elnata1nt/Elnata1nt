@@ -48,9 +48,7 @@
   
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<!-- <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Elnata1nt}/count.svg" /></p>  -->
-  <p align="center"><img align="center" iframe src="https://giphy.com/embed/ZVik7pBtu9dNS" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS"/></p>
-  <>via GIPHY</a></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Elnata1nt}/count.svg" /></p> 
 <br>
 </div>
 <div>
